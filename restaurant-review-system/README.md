@@ -1,4 +1,4 @@
-# Restaurant Review System
+# restaurant-review-system
 
 A comprehensive multi-modal AI system for analyzing restaurant reviews through facial emotion detection, sentiment analysis, and interactive chatbot capabilities.
 
@@ -69,7 +69,7 @@ restaurant-review-system/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/restaurant-review-system.git
+git clone https://github.com/Hazemsaady23/restaurant-review-system.git
 cd restaurant-review-system
 ```
 
@@ -78,7 +78,7 @@ cd restaurant-review-system
 **⚠️ Important:** Model files are not included in this repository due to size constraints (300MB+).
 
 **Download the complete project with models from:**
-- 🔗 [Google Drive Link](YOUR_GOOGLE_DRIVE_LINK_HERE)
+- 🔗 [Google Drive Link](https://drive.google.com/drive/folders/1K29ZaIZp1lAQjtG3ZFgXklMbU5vg3ptc?usp=drive_link)
 
 After downloading, place the model files in their respective directories:
 - `rafdb_efficientnetv2s_best.pth` → `facial_emotion/`
@@ -201,9 +201,9 @@ This project is created for educational and interview purposes.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/Hazemsaady23)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/hazem-saad97)
+- Email: Hazemsaady18@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -217,4 +217,3 @@ For any questions or discussions about this project, please reach out via email 
 
 ---
 
-**Note for Reviewers:** The complete project with model files (300MB+) is available on [Google Drive](YOUR_GOOGLE_DRIVE_LINK_HERE) due to GitHub's file size limitations.
