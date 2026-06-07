@@ -140,22 +140,7 @@ python chatbot/test_chatbot.py
 
 ### Using Individual Models
 
-**Facial Emotion Detection:**
-```python
-from facial_emotion.Raf_Db_Model import YourModelClass
-# Your usage code here
-```
 
-**Sentiment Analysis:**
-```python
-from sentiment_analysis.dist import YourModelClass
-# Your usage code here
-```
-
-**Chatbot:**
-```python
-from chatbot.Untitled-1 import YourChatbotClass
-# Your usage code here
 ```
 
 ### Using Streamlit Interface
@@ -200,9 +185,9 @@ This project is created for educational and interview purposes.
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/Hazemsaady23)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/hazem-saad97)
+**Hazem Mahmoud**
+- GitHub: (https://github.com/Hazemsaady23)
+- LinkedIn: (https://linkedin.com/in/hazem-saad97)
 - Email: Hazemsaady18@gmail.com
 
 ## 🙏 Acknowledgments
